@@ -1,0 +1,23 @@
+table, th, td {
+    border: 1px solid black;
+}
+th{
+    border-bottom: 1px solid black !important;
+    text-align: center;
+    vertical-align: middle !important;
+}
+.time{
+    width: 10%;
+}
+.two{
+    height: 60px;
+}
+.three{
+    height: 90px;
+}
+.wrapper{
+    padding: 20px;
+}
+.tbl-head{
+    height: 37px;
+}
